@@ -9,3 +9,6 @@ userNum = int(input())
 userNumSquared = userNum * userNum   # Math Bug fixed
    
 print(userNumSquared)       # Output formatting issue fixed
+
+print("bye!")
+
